@@ -1,0 +1,20 @@
+# Lingkungan Virtual
+venv/
+/venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File environment (untuk menyimpan data sensitif seperti API key)
+.env
+
+# Folder IDE/Editor
+.vscode/
+.idea/
+
+# File spesifik OS
+.DS_Store
+Thumbs.db

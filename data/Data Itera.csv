@@ -1,0 +1,428 @@
+"";"Nomor.urut";"Jenis.Kelamin";"Umur";"Fakultas";"Prodi";"Tingkat.Semester";"Uang.Saku";"kepemilikan.mobil";"kepemilikan.motor";"kepemilikan.sepeda";"kendaraan.utama";"kelurahan";"jenis.tempat.tinggal";"alasan.pemilihan.lokasi.tempat.tinggal";"jarak";"biaya.perjalanan.per.pekan";"Jumlah.perjalanan.Senin";"Jumlah.perjalanan.Selasa";"Jumlah.perjalanan.Rabu";"Jumlah.perjalanan.Kamis";"Jumlah.perjalanan.Jumat";"Jumlah.perjalanan.Sabtu";"Jumlah.perjalanan.Ahad"
+"1";1;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";2;1;0;"Sepeda Motor";"Tanjung Seneng";"Rumah pribadi/rumah keluarga";"Dekat dengan kampus";6,69;10000;3;3;2;3;3;2;0
+"2";2;"Laki-laki";22;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Korpri Jaya";"Kos Sendiri";"Tempat tinggal murah";2,82;21000;2;3;2;2;3;3;2
+"3";3;"Perempuan";20;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"way huwi";"Kos Sendiri";"dekat dengan kampus";5,17;40000;4;4;5;4;2;2;2
+"4";4;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"tempat tinggal murah";6,95;30000;2;3;3;0;2;0;2
+"5";5;"Laki-laki";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"sukarame";"Rumah mengontrak bersama-sama";"biaya tempat tinggal murah";5,57;25000;0;3;0;2;3;2;0
+"6";6;"Laki-laki";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"way huwi";"Kos Sendiri";"dekat dengan kampus";4,75;40000;2;3;5;2;3;2;0
+"7";7;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;1;1;"Sepeda Motor Pribadi";"Jl. Pulau Morotai";"Rumah pribadi/rumah keluarga";"tinggal sama keluarga";8,27;30000;0;3;0;3;2;2;2
+"8";8;"Perempuan";20;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-2";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"Dekat dengan kampus";3,7;0;5;4;2;2;4;0;3
+"9";9;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"3,1 jt – 4 jt";0;1;0;"Mobil Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";3,77;1e+05;0;3;2;2;0;2;2
+"10";10;"Laki-laki";22;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Mobil Pribadi";"Korpri Jaya";"Kos Sendiri";"dekat dengan kampus";2,08;30000;3;2;3;0;2;0;2
+"11";11;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"waydadi";"Kos Sendiri";"lebih dekat dengan pusat perbelanjaan dan pusat kota, sehingga lebih mudah untuk bepergian";6,63;20000;2;3;4;1;1;1;1
+"12";12;"Perempuan";19;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-2";"< 1 jt";1;0;1;"Sepeda Motor Pribadi";"Sukarame";"Rumah pribadi/rumah keluarga";"dengan keluarga";4,4;45000;4;2;2;4;2;0;1
+"13";13;"Perempuan";20;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Kota Baru";"Rumah pribadi/rumah keluarga";"Karena saya asli orang Bandar Lampung ";10,69;62000;4;4;4;4;4;0;0
+"14";14;"Perempuan";18;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Desa Way Huwi";"Kos Sendiri";"Dekat kampus, tempat tinggal nyaman";3,7;30000;5;2;2;3;2;0;2
+"15";15;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi, Jati Agung ";"Rumah mengontrak bersama-sama";"Biaya tempat tinggal murah ";6,09;33000;4;6;4;6;4;4;4
+"16";16;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Desa Way Hui";"Rumah mengontrak bersama-sama";"Biaya tempat tinggal murah";3,92;20000;2;2;2;2;2;2;3
+"17";17;"Perempuan";20;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-2";"1 jt – 2 jt";1;0;1;"Sepeda Motor Pribadi";"Sukarame";"Kos Sendiri";"Lingkungan aman dan strategis";3,47;4e+05;2;3;3;0;0;2;4
+"18";18;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way huwi";"Kos bersama-sama";"Dekat dengan kampus dan kuliner";3,55;40000;2;2;2;2;2;0;3
+"19";19;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";2;0;0;"Sepeda Motor Pribadi";"Sukabumi";"Rumah pribadi/rumah keluarga";"Lingkungan aman nyaman, dekat dengan kampus, dan rumah keluarga";6,35;30000;0;2;2;0;0;2;2
+"20";20;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"2,1 jt – 3 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Korpri Raya";"Kos Sendiri";"Dekat dengan kampus";1,76;0;0;3;3;3;3;3;3
+"21";21;"Perempuan";22;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";2;1;1;"Sepeda Motor Pribadi";"Korpri Raya";"Rumah pribadi/rumah keluarga";"Dengan keluarga";5,54;30000;1;1;1;1;1;1;1
+"22";22;"Laki-laki";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"> 4 jt";1;0;0;"Sepeda Motor Pribadi";"Korpri Raya";"Kos Sendiri";"Deket dengan kampus (sebenarnya lu tau kan vin karena pengen deket aurel aja gua milih kosan)";1,76;75000;3;3;3;3;3;0;2
+"23";24;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";2;0;1;"Transportasi Online";"Kelurahan Tanjung Raya";"Rumah pribadi/rumah keluarga";"Dengan keluarga ";10,32;50000;0;4;3;0;1;0;0
+"24";23;"Perempuan";22;"FTIK";"Teknik Geomatika";"Tahun ke-4";"3,1 jt – 4 jt";2;1;0;"Sepeda Motor Pribadi";"Tanjung Raya";"Rumah pribadi/rumah keluarga";"Bersama keluarga dan lingkungan cukup aman dan strategis ";10,44;1e+05;3;4;3;4;4;4;2
+"25";27;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"2,1 jt – 3 jt";1;0;1;"Sepeda Motor Pribadi";"Korpri Raya";"Kos Sendiri";"dekat dengan kampus";3,03;28000;2;4;0;3;2;0;0
+"26";25;"Laki-laki";21;"FTIK";"Teknik Geomatika";"Tahun ke-4";"1 jt – 2 jt";1;0;1;"Sepeda Motor Pribadi";"Sukabumi";"Rumah bersama saudara";"dengan keluarga dan lingkungan aman";6,39;50000;5;5;5;5;6;5;5
+"27";26;"Perempuan";21;"FTIK";"Teknik Geomatika";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Kedamaian";"Rumah pribadi/rumah keluarga";"tinggal dengan keluarga";7,93;50000;2;2;0;3;3;2;0
+"28";28;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";0;0;0;"Transportasi Online";"Way Huwi";"Rumah mengontrak bersama-sama";"Karena biaya tinggal murah";5,03;80000;2;2;2;2;2;2;3
+"29";29;"Laki-laki";19;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Kelurahan Korpri Jaya";"Kos Sendiri";"dekat dengan kampus";2,39;54000;4;3;3;4;4;4;3
+"30";33;"Perempuan";22;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Airan raya";"Rumah mengontrak bersama-sama";"Biaya tempat tinggal murah";4,8;30000;3;3;3;3;3;3;2
+"31";30;"Perempuan";21;"FTIK";"Teknik Geomatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"way hui";"Kos Sendiri";"dekat dengan kampus";3,52;60000;3;3;3;2;3;3;4
+"32";31;"Perempuan";22;"FS";"Farmasi";"Tahun ke-4";"< 1 jt";0;0;0;"Transportasi Online";"Way Huwi";"Rumah mengontrak bersama-sama";"Dekat dari kampus";3,56;1e+05;2;2;2;2;4;0;2
+"33";35;"Laki-laki";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi/Airan";"Kos Sendiri";"dekat dengan kampus";4,61;50000;4;4;3;4;6;4;5
+"34";34;"Laki-laki";21;"FTI";"Teknik Industri";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Lingkungan sejuk";4,75;50000;0;0;0;3;6;0;7
+"35";37;"Perempuan";20;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;1;"Sepeda Motor Pribadi";"Fajar Baru";"Rumah pribadi/rumah keluarga";"dengan keluarga";5,4;30000;0;2;3;0;5;0;2
+"36";36;"Laki-laki";21;"FTIK";"Teknik Geomatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus";9,63;30000;4;4;4;4;5;4;0
+"37";38;"Laki-laki";20;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Murah";5,4;30000;4;0;4;2;0;0;0
+"38";41;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Korpri";"Kos Sendiri";"Strategis lokasinya, murah, nyaman, lingkungan aman";12,19;25000;2;2;2;2;2;2;2
+"39";39;"Laki-laki";21;"FTIK";"Teknik Kelautan";"Tahun ke-4";"< 1 jt";0;0;1;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi, Jati Agung, Lampung Selatan";"Rumah mengontrak bersama-sama";"Murah dan dekat dengan kampus ";3,81;0;3;3;3;3;3;0;0
+"40";40;"Perempuan";21;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Wayhuwi";"Kos Sendiri";"lingkungan yang nyaman sepi dan tentram";1,78;25000;1;1;1;1;1;1;1
+"41";42;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"2,1 jt – 3 jt";3;3;3;"Mobil Pribadi";"Kelurahan Langkapura Baru";"Rumah pribadi/rumah keluarga";"dengan keluarga dan lingkungan yg cukup nyaman";5,46;2e+05;0;3;4;3;3;0;2
+"42";43;"Perempuan";20;"FS";"Sains Aktuaria";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat dengan kampus, lingkungan tentram dan tidak padat.";3,7;60000;2;0;0;0;3;0;2
+"43";44;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";0;0;0;"Transportasi Online";"Way huwi";"Kos Sendiri";"Dekat dengan kampus ";4,98;30000;0;3;3;0;0;0;0
+"44";45;"Laki-laki";21;"FTI";"Teknik Informatika";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame";"Kos bersama-sama";"dekat dengan masjid";14,12;40000;4;3;3;4;3;4;4
+"45";46;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"2,1 jt – 3 jt";2;0;0;"Sepeda Motor Pribadi";"Kupang Kota";"Rumah pribadi/rumah keluarga";"Tinggal bersama keluarga";8,56;50000;2;2;2;2;0;0;0
+"46";47;"Laki-laki";22;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";2;1;0;"Sepeda Motor Pribadi";"Pematang Wangi";"Rumah pribadi/rumah keluarga";"dengan keluarga";35,18;35000;4;3;2;4;4;2;2
+"47";48;"Perempuan";19;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-2";"< 1 jt";1;0;1;"Sepeda Motor Pribadi";"tegineneng, pesawaran lampung";"Rumah pribadi/rumah keluarga";"dekat dengan keluarga";7,89;150000;1;1;1;1;1;1;1
+"48";49;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Tanjung Seneng";"Rumah pribadi/rumah keluarga";"Karna dekat kampus dan rumah keluarga";3,91;50000;0;2;3;0;0;0;0
+"49";50;"Perempuan";21;"FS";"Matematika";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Rumah mengontrak bersama-sama";"Karena udah dipilihin sama teman untuk kontrakannya sendiri dan lingkungannya aman";12,41;30000;0;0;2;2;0;0;4
+"50";51;"Perempuan";21;"FS";"Matematika";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Sinar Banten Sidosari";"Rumah pribadi/rumah keluarga";"dengan keluarga";3,95;0;0;0;3;1;0;0;0
+"51";52;"Perempuan";22;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";0;0;0;"Transportasi Online";"Desa Way Huwi";"Kos Sendiri";"Sepi";7,5;50000;2;2;2;0;0;0;0
+"52";53;"Laki-laki";21;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sepang Jaya ";"Rumah bersama saudara";"Ya memang tempat tinggal aja keluarga ";13,56;1e+05;4;4;4;4;5;0;0
+"53";54;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";1;1;0;"Sepeda Motor Pribadi";"kemiling raya";"Rumah pribadi/rumah keluarga";"dengan keluarga";9,28;30000;4;4;4;4;2;2;2
+"54";55;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";2;2;0;"Sepeda Motor Pribadi";"Kelurahan Segala Mider";"Rumah pribadi/rumah keluarga";"Dengan keluarga";5,87;50000;3;3;5;4;2;4;3
+"55";56;"Laki-laki";22;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Hui";"Rumah mengontrak bersama-sama";"Biaya murah";3,7;2e+05;4;3;3;2;2;3;2
+"56";57;"Perempuan";21;"FTI";"Rekayasa Kehutanan";"Tahun ke-3";"< 1 jt";1;0;1;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Murah";5,5;25000;3;3;4;2;5;4;2
+"57";58;"Perempuan";20;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Kelurahan Korpri Raya";"Rumah mengontrak bersama-sama";"Biaya tempat tinggal murah, lingkungan aman, dekat dengan teman";4,04;0;4;2;2;5;2;2;2
+"58";59;"Laki-laki";22;"FTI";"Teknik Informatika";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"marga agung, jati agung, lampung selatan";"Rumah pribadi/rumah keluarga";"rumah keluarga";9,79;20000;3;2;2;2;4;0;0
+"59";60;"Laki-laki";22;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-3";"1 jt – 2 jt";2;1;0;"Sepeda Motor Pribadi";"Tanjung karang timur ";"Rumah pribadi/rumah keluarga";"Dengan keluarga ";5,4;1e+05;4;4;4;4;7;0;0
+"60";61;"Perempuan";21;"FTI";"Teknik Telekomunikasi";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"way Hui ";"Kos bersama-sama";"tempat nyaman, harga terjangkau ";7,41;15000;1;1;0;0;2;1;1
+"61";62;"Perempuan";21;"FTI";"Teknik Pertambangan";"Tahun ke-4";"< 1 jt";2;0;1;"Sepeda Motor Pribadi";"Tanjung Senang/Tanjung Senang";"Rumah bersama saudara";"Tinggal dengan keluarga sudah lama disitu";3,47;50000;3;3;3;3;4;0;0
+"62";63;"Perempuan";21;"FS";"Biologi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";3,84;20000;2;3;0;3;2;4;2
+"63";64;"Perempuan";21;"FS";"Biologi";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"biaya kosan murah";3,82;25000;2;2;2;0;2;0;2
+"64";65;"Perempuan";21;"FS";"Biologi";"Tahun ke-4";"< 1 jt";1;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat dengan kampus dan biaya murah";2,24;40000;2;3;3;2;0;2;0
+"65";66;"Perempuan";22;"FS";"Biologi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"korpri jaya";"Kos Sendiri";"deket kampus";5,14;40000;3;2;4;3;2;0;4
+"66";67;"Laki-laki";22;"FS";"Matematika";"Tahun ke-4";"1 jt – 2 jt";1;0;1;"Sepeda Motor Pribadi";"Gg. Pendidikan";"Kos Sendiri";"dekat dengan kampus";3,7;30000;0;2;2;0;2;0;0
+"67";68;"Laki-laki";21;"FS";"Matematika";"Tahun ke-4";"< 1 jt";0;0;1;"Sepeda";"Jl. Lapas Raya";"Rumah mengontrak bersama-sama";"diajak oleh teman dan biaya murah";3,57;0;0;3;2;0;3;0;0
+"68";69;"Perempuan";21;"FS";"Biologi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus";3,72;20000;3;0;2;2;0;5;0
+"69";70;"Laki-laki";21;"FS";"Farmasi";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"murah karna bareng teman";3,65;0;3;3;0;2;2;0;2
+"70";71;"Perempuan";21;"FS";"Biologi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Korpri Jaya";"Rumah mengontrak bersama-sama";"biaya murah karna ngontrak bareng temen";5,14;30000;2;2;0;2;2;0;3
+"71";72;"Perempuan";21;"FS";"Matematika";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Murah karna bareng temen";5,59;25000;2;3;4;0;0;0;0
+"72";73;"Perempuan";22;"FS";"Matematika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus";2,76;35000;0;0;2;2;4;0;0
+"73";74;"Laki-laki";22;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Korpri Jaya";"Kos Sendiri";"biaya kosan murah";6,83;40000;4;2;3;0;2;2;0
+"74";75;"Laki-laki";21;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Rumah mengontrak bersama-sama";"Biaya tempat tinggal murah";5,01;50000;2;3;3;4;5;0;0
+"75";76;"Laki-laki";21;"FTI";"Teknik Informatika";"Tahun ke-4";"2,1 jt – 3 jt";2;1;0;"Sepeda Motor Pribadi";"Sukarame Baru";"Rumah pribadi/rumah keluarga";"Lingkungan aman karna perumahan";2,26;50000;2;2;3;5;4;4;0
+"76";77;"Laki-laki";22;"FS";"Matematika";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Korpri Jaya";"Kos Sendiri";"lingkungan aman karna gang di portal jika jam sudah malam";3,58;30000;2;3;4;0;2;0;0
+"77";78;"Laki-laki";21;"FS";"Matematika";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"kontrakan biaya yang murah";5,46;30000;0;2;3;2;3;0;2
+"78";79;"Perempuan";21;"FS";"Sains Aktuaria";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"lingkungan aman, jalannya bagus, kostnya aestethic";6,89;25000;2;3;2;3;2;2;2
+"79";80;"Perempuan";23;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;1;1;"Transportasi Online";"Sukabumi Indah";"Rumah pribadi/rumah keluarga";"Dengan Keluarga";5,23;144000;2;2;2;2;2;2;2
+"80";81;"Perempuan";21;"FTI";"Teknologi Pangan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way huwi, jl airan 1";"Kos Sendiri";"Dekat kampus ";6,34;25000;5;5;5;5;2;3;2
+"81";82;"Laki-laki";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"lingkungan nyaman,biaya terjangkau,dekat dengan kampus";3,7;70000;4;4;6;4;4;4;4
+"82";83;"Laki-laki";20;"FTI";"Teknik Industri";"Tahun ke-3";"2,1 jt – 3 jt";1;0;1;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus, kost estetik";2,79;1e+05;3;3;3;4;5;4;5
+"83";84;"Laki-laki";21;"FS";"Fisika";"Tahun ke-3";"1 jt – 2 jt";1;0;1;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"kontrakan bagus dan kamar nya banyak";2,79;30000;3;2;3;3;2;0;2
+"84";85;"Laki-laki";21;"FS";"Fisika";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"harapan jaya";"Rumah mengontrak bersama-sama";"diajak oleh teman dan biaya murah";5,27;0;3;2;4;3;2;2;2
+"85";86;"Laki-laki";21;"FS";"Fisika";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus dan aman karna pagar kosan tinggi";3,7;40000;2;4;2;3;2;5;0
+"86";87;"Perempuan";22;"FS";"Kimia";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";7,9;20000;2;0;3;2;0;2;0
+"87";88;"Laki-laki";22;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Kelurahan Pematang Wangi";"Rumah mengontrak bersama-sama";"lingkungan aman dan nyaman";2,76;50000;4;4;4;5;5;4;4
+"88";89;"Laki-laki";22;"FS";"Kimia";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"diajak satu tempat kos dengan teman";9,41;45000;3;0;2;2;3;0;2
+"89";90;"Laki-laki";22;"FS";"Sains Lingkungan Kelautan";"Tahun ke-4";"1 jt – 2 jt";2;0;1;"Sepeda Motor Pribadi";"Kota Baru";"Rumah pribadi/rumah keluarga";"bersama keluarga";7,07;60000;2;3;2;3;2;2;2
+"90";91;"Perempuan";21;"FS";"Kimia";"Tahun ke-4";"1 jt – 2 jt";2;1;1;"Sepeda Motor Pribadi";"Perumnas Way Kandis";"Rumah pribadi/rumah keluarga";"tinggal dengan keluarga";8,19;30000;3;0;2;0;2;0;2
+"91";92;"Laki-laki";21;"FS";"Sains Lingkungan Kelautan";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Rumah mengontrak pribadi";"biaya murah karna bareng dengan teman";3,9;50000;3;2;2;2;5;0;2
+"92";93;"Laki-laki";22;"FS";"Sains Lingkungan Kelautan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"dekat dengan kampus dan tempat makan";3,48;40000;2;2;0;2;2;3;2
+"93";94;"Laki-laki";22;"FS";"Kimia";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Kosan bagus dan nyaman";3,7;40000;0;2;2;2;3;0;5
+"94";95;"Laki-laki";21;"FS";"Sains Aktuaria";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";3,3;35000;3;0;2;2;3;0;5
+"95";96;"Laki-laki";21;"FS";"Sains Aktuaria";"Tahun ke-4";"< 1 jt";0;0;1;"Sepeda";"Way Huwi";"Rumah mengontrak bersama-sama";"dengan teman dan biaya murah";2,66;0;2;2;0;0;4;0;2
+"96";97;"Laki-laki";21;"FTI";"Teknik Mesin";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"Diajak bareng oleh teman";3,73;20000;3;4;2;0;2;2;0
+"97";98;"Laki-laki";21;"FS";"Kimia";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus";2,66;30000;3;2;4;2;3;0;0
+"98";99;"Laki-laki";22;"FTI";"Teknik Mesin";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"Diajakin temen";3,84;45000;4;3;2;0;4;2;0
+"99";100;"Laki-laki";22;"FS";"Kimia";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"biaya murah";2,66;40000;3;3;2;2;4;0;4
+"100";101;"Laki-laki";21;"FTI";"Teknik Mesin";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"Diajak temen";5,84;40000;0;3;4;4;2;2;2
+"101";102;"Laki-laki";21;"FS";"Sains Aktuaria";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"murah dan kamar mencukupi untuk bersama";6,78;15000;2;0;2;2;2;0;0
+"102";103;"Laki-laki";20;"FTI";"Teknik Fisika";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"Harga terjangkau";2,11;40000;4;4;4;4;3;0;0
+"103";104;"Laki-laki";22;"FTIK";"Arsitektur";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Murah terjangkau";3,48;0;2;5;2;0;3;0;2
+"104";105;"Laki-laki";22;"FTI";"Teknik Industri";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Rekomendasi orang tua";3,96;30000;2;0;0;0;2;0;2
+"105";106;"Laki-laki";21;"FTI";"Teknik Industri";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Dadi";"Rumah mengontrak bersama-sama";"Diajak teman karna biaya murah";5,03;25000;2;4;4;4;2;2;0
+"106";107;"Laki-laki";21;"FTI";"Teknologi Pangan";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"way huwi";"Kos Sendiri";"dekat dengan kampus dan biayanya murah";3,7;1e+05;2;1;3;0;1;1;0
+"107";108;"Perempuan";21;"FS";"Farmasi";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus dan murah";4,61;40000;2;2;2;2;0;0;2
+"108";109;"Perempuan";22;"FS";"Kimia";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat kampus dan banyak tempat makan";2,24;50000;2;3;3;2;2;0;2
+"109";110;"Perempuan";21;"FS";"Kimia";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"fasilitas kosan lengkap";4,88;30000;4;2;2;2;2;2;0
+"110";111;"Laki-laki";22;"FTIK";"Teknik Kelautan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"harapan jaya";"Rumah mengontrak bersama-sama";"murah bersama teman";4,88;50000;3;2;3;2;5;0;2
+"111";112;"Laki-laki";22;"FTIK";"Teknik Kelautan";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Harapan Jaya";"Rumah mengontrak bersama-sama";"dengan teman";4,87;10000;3;2;2;2;4;0;0
+"112";113;"Laki-laki";21;"FTIK";"Teknik Kelautan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"Bersama teman seprodi";5,03;40000;2;2;2;2;4;2;0
+"113";114;"Perempuan";21;"FS";"Farmasi";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat kampus";5,27;50000;2;2;0;2;0;0;0
+"114";115;"Perempuan";22;"FS";"Farmasi";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"Strategis dekat kampus";5,27;30000;2;0;2;2;2;2;0
+"115";116;"Perempuan";21;"FS";"Farmasi";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"way huwi";"Rumah mengontrak bersama-sama";"dekat dengan perbelanjaan";2,08;0;2;2;2;0;0;0;3
+"116";117;"Laki-laki";22;"FTIK";"Teknik Kelautan";"Tahun ke-4";"< 1 jt";0;0;1;"Sepeda";"harapan jaya";"Rumah mengontrak bersama-sama";"dekat kampus dan murah";2,34;0;3;2;2;3;4;0;2
+"117";118;"Laki-laki";22;"FTIK";"Teknik Kelautan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"kosan aman dan tertarik karna kamar luas";2,66;40000;2;2;2;2;4;2;0
+"118";119;"Laki-laki";21;"FTIK";"Teknik Kelautan";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Korpri Jaya";"Kos Sendiri";"dekat dengan kampus";3,84;30000;2;2;2;0;4;0;0
+"119";120;"Perempuan";21;"FS";"Sains Data";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus dan lokasi strategis banyak perbelanjaan";3,64;40000;3;4;2;4;2;3;0
+"120";121;"Perempuan";21;"FTI";"Rekayasa Kehutanan";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus";3,17;45000;2;2;4;2;2;0;2
+"121";122;"Perempuan";21;"FTI";"Teknik Pertambangan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Korpri ";"Rumah mengontrak bersama-sama";"lokasi kontrakan strategis dan harganya murah";1,78;30000;6;6;6;6;6;6;2
+"122";123;"Laki-laki";22;"FTIK";"Teknik Kelautan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Kosan aman dan ramai";2,24;60000;3;3;2;3;4;0;3
+"123";124;"Laki-laki";22;"FTIK";"Teknik Kelautan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"dekat dengan kampus";3,9;40000;2;2;2;0;4;0;5
+"124";125;"Perempuan";21;"FS";"Sains Data";"Tahun ke-4";"< 1 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat kampus";5,35;55000;2;2;2;2;0;0;0
+"125";126;"Laki-laki";22;"FS";"Sains Data";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"murah";2,12;40000;2;2;2;2;2;2;0
+"126";127;"Perempuan";21;"FS";"Farmasi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"dekat kampus";3,7;30000;3;2;2;4;0;2;2
+"127";128;"Perempuan";21;"FS";"Sains Data";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"WAY HUWI";"Kos Sendiri";"KOSAN MURAH";3,77;30000;3;3;2;4;0;0;3
+"128";129;"Perempuan";22;"FS";"Farmasi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat kampus dan dekat tempat makan";2,79;30000;3;2;2;2;0;0;0
+"129";130;"Perempuan";21;"FS";"Farmasi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"biaya murah";4,93;30000;2;2;2;0;0;0;2
+"130";131;"Laki-laki";21;"FS";"Sains Data";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Fasilitas kost lengkap dan dekat dengan jalan raya";5,11;30000;3;2;2;2;2;0;0
+"131";132;"Laki-laki";22;"FS";"Farmasi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Biaya kosan murah";6,95;40000;3;3;4;0;2;0;2
+"132";133;"Laki-laki";22;"FS";"Farmasi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"Kosan desain bagus";4,75;40000;3;2;2;2;2;2;0
+"133";134;"Laki-laki";22;"FS";"Sains Data";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat kampus";5,5;45000;3;2;2;2;2;2;0
+"134";135;"Perempuan";21;"FS";"Sains Data";"Tahun ke-4";"< 1 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Dipilihkan oleh keluarga";5,52;50000;2;2;2;2;0;0;0
+"135";136;"Perempuan";21;"FS";"Farmasi";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Murah karna dengan teman-teman";6,68;30000;4;2;2;0;2;0;2
+"136";137;"Laki-laki";22;"FS";"Sains Data";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Rumah mengontrak bersama-sama";"karna memiliki kamar yang banyak dan luas";2,82;60000;2;3;2;2;2;0;5
+"137";138;"Perempuan";21;"FTIK";"Desain Komunikasi Visual";"Tahun ke-4";"< 1 jt";0;0;1;"Transportasi Online";"Sukarame";"Kos Sendiri";"Dekat dengan kampus, akses mudah, lingkungan yang nyaman dan aman";3,84;15000;3;1;1;1;1;1;3
+"138";139;"Perempuan";21;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Rumah mengontrak bersama-sama";"Murah dan dekat kampus";3,84;60000;4;2;2;2;2;2;2
+"139";140;"Perempuan";21;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"murah karna dengan teman dan dekat tempat makan";3,84;0;4;2;2;2;2;0;0
+"140";141;"Perempuan";22;"FS";"Sains Aktuaria";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Kos Sendiri";"Dekat kampus";5,01;0;3;2;2;0;0;0;2
+"141";142;"Laki-laki";22;"FTIK";"Teknik Geomatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame Baru";"Kos Sendiri";"Dekat kampus dan lokasi strategis";5,03;40000;4;4;4;4;5;2;0
+"142";143;"Laki-laki";22;"FTIK";"Teknik Geomatika";"Tahun ke-4";"1 jt – 2 jt";1;0;1;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Dekat dengan kampus";8,19;50000;4;2;3;0;5;0;2
+"143";144;"Perempuan";21;"FTIK";"Teknik Geomatika";"Tahun ke-4";"2,1 jt – 3 jt";2;1;1;"Sepeda Motor Pribadi";"Kedamaian";"Rumah pribadi/rumah keluarga";"Dari awal memiliki tempat tinggal disini";2,63;40000;3;2;2;2;3;3;2
+"144";145;"Perempuan";21;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Dekat kampus";3,75;40000;4;3;2;2;2;2;0
+"145";146;"Laki-laki";22;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Dekat kampus";1,85;30000;2;2;4;3;3;0;0
+"146";147;"Perempuan";22;"FS";"Sains Aktuaria";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Kosan dengan desain kamar bagus";6,78;50000;2;2;0;2;2;3;4
+"147";148;"Perempuan";21;"FTIK";"Arsitektur";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Rumah mengontrak bersama-sama";"biaya murah dan strategis ";2,24;40000;4;2;0;0;2;2;0
+"148";149;"Laki-laki";22;"FS";"Sains Aktuaria";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Kosan lebar dan luas";6,13;30000;3;0;2;0;3;0;0
+"149";150;"Perempuan";23;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Desa way huwi";"Kos bersama-sama";"Biaya tempat tinggal lebih murah";5,17;60000;2;1;3;2;2;1;1
+"150";151;"Perempuan";23;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-4";"> 4 jt";0;0;0;"Transportasi Online";"Raden Saleh";"Kos Sendiri";"Lingkungan aman dan dekat dengan teman ";5,52;60000;2;0;2;0;0;0;2
+"151";152;"Laki-laki";22;"FTIK";"Teknik Geomatika";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos bersama-sama";"Diajak teman karna kosan lebar dan fasilitas lengkap";5,68;40000;3;2;3;3;4;2;0
+"152";153;"Laki-laki";23;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Kontrakan cukup untuk 4 orang";6,25;30000;2;0;2;0;2;0;2
+"153";154;"Perempuan";22;"FTIK";"Arsitektur";"Tahun ke-4";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Harapan Jaya";"Rumah mengontrak bersama-sama";"Biaya murah dan lingkungan nyaman";8,7;65000;2;2;2;0;0;0;2
+"154";155;"Laki-laki";23;"FTIK";"Arsitektur";"Tahun ke-4";"1 jt – 2 jt";2;1;1;"Mobil Pribadi";"Labuhan Ratu";"Rumah pribadi/rumah keluarga";"Dengan keluarga";5,81;1e+05;3;4;2;2;2;0;0
+"155";156;"Perempuan";23;"FTIK";"Arsitektur";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Rumah mengontrak bersama-sama";"Kontrakan dengan biaya murah dan luas";6,18;25000;3;2;0;0;0;0;2
+"156";157;"Perempuan";20;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Halim Permai";"Kos Sendiri";"Lokasi ramai dan kosan bagus";4,97;50000;4;2;2;2;2;0;0
+"157";158;"Perempuan";22;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-4";"< 1 jt";2;0;1;"Sepeda Motor Pribadi";"Sukarame Baru";"Rumah pribadi/rumah keluarga";"Tinggal dengan keluarga";5,28;30000;2;0;2;2;0;0;0
+"158";159;"Laki-laki";23;"FS";"Sains Aktuaria";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame Baru";"Kos Sendiri";"Lokasi aman";2,85;40000;3;0;2;0;2;0;2
+"159";160;"Laki-laki";22;"FS";"Sains Aktuaria";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Kosan aman";3,73;35000;2;0;0;3;3;0;0
+"160";161;"Laki-laki";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"< 1 jt";0;0;1;"Sepeda";"Way Huwi";"Rumah mengontrak bersama-sama";"Diajak teman karna biaya tempat tinggal murah";3,52;0;4;4;2;0;4;0;0
+"161";162;"Laki-laki";21;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat kampus";14,01;45000;4;4;4;2;4;0;2
+"162";163;"Laki-laki";21;"FS";"Sains Aktuaria";"Tahun ke-3";"1 jt – 2 jt";2;0;1;"Sepeda Motor Pribadi";"Kupang Kota";"Rumah pribadi/rumah keluarga";"Tinggal dengan keluarga";8,1;40000;2;0;2;0;2;0;0
+"163";164;"Perempuan";22;"FTIK";"Arsitektur";"Tahun ke-4";"1 jt – 2 jt";2;1;1;"Sepeda Motor Pribadi";"Jl. Pelita II";"Rumah pribadi/rumah keluarga";"Dengan keluarga";5,46;60000;2;4;4;0;3;0;2
+"164";165;"Laki-laki";22;"FTIK";"Arsitektur";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat kampus dan banyak tempat makan";5,96;30000;2;2;0;0;2;0;0
+"165";166;"Perempuan";22;"FTIK";"Arsitektur";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Rumah mengontrak bersama-sama";"Kontrakan memiliki banyak kamar";5,3;30000;2;2;2;0;0;0;2
+"166";167;"Laki-laki";21;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame Baru";"Rumah mengontrak bersama-sama";"Lokasi strategis";2,11;40000;4;4;4;0;4;2;0
+"167";168;"Laki-laki";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Kosan lingkungan aman dan nyaman";6,52;50000;4;4;4;3;4;0;2
+"168";169;"Laki-laki";23;"FTIK";"Teknik Geomatika";"Tahun ke-4";"2,1 jt – 3 jt";0;1;0;"Mobil Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"Kontrakan bagus dan parkiran luas";6,78;150000;4;3;2;2;3;2;2
+"169";170;"Perempuan";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"fasilitas kosan yang disediakan lengkap";5,13;50000;4;4;4;2;5;2;3
+"170";171;"Perempuan";19;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-1";"1 jt – 2 jt";1;1;0;"Sepeda Motor Pribadi";"Sukarame ";"Kos Sendiri";"Biaya tempat tinggal murah dan lingkungan aman";2,84;15000;1;2;3;3;0;0;0
+"171";172;"Perempuan";21;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos bersama-sama";"Biaya kosan murah";6,83;30000;4;4;5;3;5;3;0
+"172";173;"Laki-laki";23;"FTIK";"Teknik Geomatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Perumnas Way Kandis";"Rumah mengontrak bersama-sama";"Lokasi aman dan biaya murah";6,13;50000;5;3;3;2;5;4;0
+"173";174;"Perempuan";21;"FTIK";"Desain Komunikasi Visual";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Dapat dari sosial media karna biaya kosan murah";7,04;35000;2;0;2;0;2;2;0
+"174";175;"Perempuan";22;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-4";"< 1 jt";1;0;1;"Sepeda Motor Pribadi";"Perumnas Way Kandis";"Rumah pribadi/rumah keluarga";"dengan orang tua";9,74;20000;2;2;2;2;2;2;2
+"175";176;"Perempuan";18;"FTI";"Teknik Biomedis";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Tanjung Karang Timur";"Rumah pribadi/rumah keluarga";"rumah nenek, memang cukup jauh tapi tidak memerlukan banyak biaya karena tidak menyewa";2,91;30000;2;0;2;2;0;0;0
+"176";177;"Perempuan";21;"FTIK";"Desain Komunikasi Visual";"Tahun ke-3";"< 1 jt";0;0;1;"Sepeda";"Way Huwi";"Rumah mengontrak bersama-sama";"Lokasi strategis dekat kampus dan mudah akses ke tempat makan ";8,18;0;4;2;2;2;2;2;2
+"177";178;"Perempuan";22;"FTIK";"Teknik Geomatika";"Tahun ke-4";"< 1 jt";2;0;1;"Sepeda Motor Pribadi";"Jagabaya II";"Rumah pribadi/rumah keluarga";"tinggal sudah lama disini dengan keluarga";2,96;40000;3;2;3;2;0;0;2
+"178";179;"Perempuan";21;"FTIK";"Desain Komunikasi Visual";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"Aman dan nyaman";3,03;20000;4;4;2;2;2;0;0
+"179";180;"Perempuan";19;"FS";"Sains Atmosfir dan Keplanetan";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Korpri Raya";"Kos Sendiri";"Biaya tempat tinggal murah, dan aman ";6,64;50000;4;1;2;2;3;4;1
+"180";181;"Perempuan";22;"FTIK";"Teknik Geomatika";"Tahun ke-4";"1 jt – 2 jt";3;1;2;"Sepeda Motor Pribadi";"Way Kandin";"Rumah pribadi/rumah keluarga";"Tinggal dengan keluarga";5,61;30000;2;3;2;2;2;0;2
+"181";182;"Perempuan";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"way huwi";"Kos Sendiri";"dipilihkan oleh keluarga";1,78;40000;2;4;4;2;0;2;2
+"182";183;"Perempuan";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"< 1 jt";0;0;0;"Transportasi Online";"Harapan Jaya";"Kos Sendiri";"direkomendasikan oleh teman";5,53;36000;2;4;4;2;0;0;0
+"183";184;"Laki-laki";22;"FTIK";"Desain Komunikasi Visual";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"way huwi";"Rumah mengontrak bersama-sama";"dekat kampus dan murah";3,77;40000;2;2;4;2;3;0;0
+"184";185;"Perempuan";19;"FTI";"Teknologi Pangan";"Tahun ke-2";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"belwis";"Kos Sendiri";"dekat dengan kampus";6,45;30000;3;3;3;3;3;2;3
+"185";186;"Laki-laki";21;"FTIK";"Desain Komunikasi Visual";"Tahun ke-3";"2,1 jt – 3 jt";1;0;1;"Sepeda Motor Pribadi";"Way Dadi";"Rumah mengontrak bersama-sama";"Kontrakan dengan biaya sewa terjangkau";3,09;50000;4;4;2;2;2;0;2
+"186";187;"Laki-laki";21;"FTIK";"Desain Komunikasi Visual";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"harapan jaya";"Kos Sendiri";"lokasi strategis dan akses jalan mudah";2,8;40000;2;2;2;2;2;0;3
+"187";188;"Perempuan";22;"FTIK";"Desain Komunikasi Visual";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Harapan Jaya";"Kos Sendiri";"Dekat dengan kampus";5,4;50000;3;2;2;2;0;2;0
+"188";189;"Perempuan";19;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame Baru";"Rumah mengontrak bersama-sama";"Lokasi aman karna ada keamanan dan perumahan";3,77;20000;4;2;2;4;4;3;2
+"189";190;"Perempuan";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus dan bersih";3,77;25000;2;2;2;2;4;2;2
+"190";191;"Perempuan";21;"FTIK";"Arsitektur";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos bersama-sama";"Lokasi dekat kampus dan dekat dengan perbelanjaan, tempat makan, dan kebutuhan lainnya";3,77;30000;3;2;0;0;0;0;2
+"191";192;"Perempuan";21;"FTIK";"Arsitektur";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"way huwi";"Kos bersama-sama";"biaya sewa murah karna berdua dengan teman";4,88;15000;3;2;2;2;2;0;2
+"192";193;"Laki-laki";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat masjid";7,43;50000;4;4;4;6;5;3;0
+"193";194;"Laki-laki";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Kandis";"Rumah bersama saudara";"Karna bukan asli lampung selatan dan memiliki saudara di way kandis ";11,3;37000;2;2;2;2;2;1;0
+"194";195;"Perempuan";22;"FTIK";"Arsitektur";"Tahun ke-4";"1 jt – 2 jt";3;1;2;"Mobil Pribadi";"Langkapura";"Rumah pribadi/rumah keluarga";"Bersama keluarga";1,78;0;2;2;3;0;0;3;0
+"195";196;"Laki-laki";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"lokasi strategis dekat dengan jalan raya";5,24;20000;4;4;0;4;4;0;0
+"196";197;"Laki-laki";21;"FTIK";"Desain Komunikasi Visual";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"wayhuwi";"Kos Sendiri";"biaya tempat tinggal murah";4,75;30000;4;4;4;2;4;3;0
+"197";198;"Perempuan";21;"FTIK";"Desain Komunikasi Visual";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Biaya sewa murah";6,09;35000;4;4;4;4;4;0;0
+"198";199;"Perempuan";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"2,1 jt – 3 jt";2;0;2;"Sepeda Motor Pribadi";"Perumnas Way Halim";"Rumah pribadi/rumah keluarga";"dengan keluarga";4,1;40000;2;2;2;2;2;3;3
+"199";200;"Perempuan";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"< 1 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Tertarik dari fasilitas yang lengkap";5,11;30000;2;4;2;2;4;0;0
+"200";201;"Perempuan";20;"FTIK";"Teknik Lingkungan";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Biaya sewa murah";6,62;20000;4;2;2;0;0;0;2
+"201";202;"Perempuan";23;"FTIK";"Desain Komunikasi Visual";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"way dadi";"Rumah mengontrak bersama-sama";"lokasi dekat dengan jalan raya korpri";7,03;24000;2;2;0;0;2;0;2
+"202";203;"Laki-laki";22;"FTIK";"Desain Komunikasi Visual";"Tahun ke-4";"1 jt – 2 jt";3;1;1;"Sepeda Motor Pribadi";"Campang Raya";"Rumah pribadi/rumah keluarga";"dengan keluarga";3,7;40000;2;2;2;0;2;0;3
+"203";204;"Perempuan";17;"FS";"Farmasi";"Tahun ke-1";"3,1 jt – 4 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat kampus, dekat tempat makan dan keperluan lainnya.";8,5;25000;2;2;2;2;2;2;2
+"204";205;"Perempuan";20;"FTIK";"Teknik Perkeretaapian";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Sabah Balau";"Rumah pribadi/rumah keluarga";"Gratis";5,66;60000;2;1;2;2;2;1;1
+"205";206;"Perempuan";21;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-4";"< 1 jt";3;1;0;"Sepeda Motor Pribadi";"Sukarame Baru";"Kos Sendiri";"Dekat dengan kampus dan mudah di akses kemana saja";1,78;50000;1;1;1;1;1;1;1
+"206";207;"Perempuan";20;"FTI";"Teknik Geofisika";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Sukarame";"Rumah mengontrak bersama-sama";"Dekat dengan kampus, lingkungan aman, biaya murah";6,05;17000;3;3;3;3;2;2;2
+"207";208;"Laki-laki";20;"FTIK";"Arsitektur";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Halim";"Kos Sendiri";"lingkungan nyaman, tidak banyak mahasiswa";7,65;40000;1;3;3;3;1;1;1
+"208";209;"Laki-laki";21;"FTI";"Teknik Fisika";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"jauh dari kampus, tenang";7,68;0;4;4;4;3;4;1;1
+"209";210;"Laki-laki";21;"FTI";"Teknologi Pangan";"Tahun ke-3";"1 jt – 2 jt";2;0;0;"Sepeda Motor Pribadi";"Sukarame Baru";"Rumah pribadi/rumah keluarga";"Dengan keluarga";15,57;1e+05;3;3;3;3;3;2;0
+"210";211;"Perempuan";20;"FTIK";"Perencanaan Wilayah dan Kota";"Tahun ke-3";"2,1 jt – 3 jt";0;1;1;"Mobil Pribadi";"Teluk betung barat";"Rumah pribadi/rumah keluarga";"Lingkungan perumahan yang aman dan nyaman , dekat dengan sekolah (dulu)";4,88;280000;4;4;5;4;5;0;3
+"211";212;"Laki-laki";22;"FTIK";"Teknik Perkeretaapian";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Harapan jaya";"Kos Sendiri";"Dekat kampus dan murah";5,82;30000;2;0;0;0;2;0;0
+"212";213;"Laki-laki";21;"FTIK";"Arsitektur";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Halim Permai";"Kos Sendiri";"Lokasi strategis dekat perbelanjaan dan lingkungan nyaman";4,47;32000;3;0;2;2;2;3;0
+"213";214;"Perempuan";20;"FTI";"Teknik Biosistem";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"Lingkungan aman dan pemilik selalu siap siaga";4,61;55000;4;0;5;4;0;4;0
+"214";215;"Laki-laki";22;"FTI";"Teknik Pertambangan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Biaya Murah";1,91;30000;4;4;2;4;5;2;2
+"215";216;"Laki-laki";21;"FTIK";"Teknik Perkeretaapian";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Dekat dengan kampus dan jalanan";5,24;25000;4;4;4;4;3;3;0
+"216";217;"Laki-laki";21;"FTIK";"Teknik Perkeretaapian";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Wayhuwi";"Rumah mengontrak bersama-sama";"biaya murah dengan teman";10,34;24000;2;4;4;2;3;0;0
+"217";218;"Perempuan";20;"FTIK";"Arsitektur";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Karang Anyar";"Rumah mengontrak bersama-sama";"Tidak jauh jika pulang kerumah";8,2;50000;2;2;2;3;1;0;3
+"218";219;"Perempuan";19;"FTIK";"Teknik Perkeretaapian";"Tahun ke-2";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Jagabaya II";"Kos Sendiri";"Disarankan oleh saudara";2,05;70000;2;2;3;4;2;2;0
+"219";220;"Laki-laki";19;"FTI";"Teknik Elektro";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"harapan jaya";"Rumah mengontrak bersama-sama";"kontrakan strategis";3,82;30000;6;3;3;4;2;0;0
+"220";221;"Laki-laki";20;"FTI";"Teknik Mesin";"Tahun ke-3";"2,1 jt – 3 jt";1;0;1;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus";6,83;40000;4;2;2;2;5;2;0
+"221";222;"Laki-laki";21;"FTIK";"Arsitektur Lanskap";"Tahun ke-3";"3,1 jt – 4 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"Biaya kos murah";3,48;35000;2;3;3;3;3;0;5
+"222";223;"Laki-laki";21;"FTIK";"Teknik Perkeretaapian";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Harapan Jaya";"Kos Sendiri";"Fasilitas lengkap";5,02;15000;0;2;2;2;0;0;3
+"223";224;"Laki-laki";22;"FTIK";"Teknik Perkeretaapian";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Berjalan Kaki";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus";8,28;0;2;2;2;2;2;0;0
+"224";225;"Laki-laki";21;"FTIK";"Teknik Sipil";"Tahun ke-3";"3,1 jt – 4 jt";3;1;1;"Mobil Pribadi";"Tanjung Senang";"Rumah pribadi/rumah keluarga";"tinggal bersama keluarga";6,07;150000;2;2;2;2;3;2;0
+"225";226;"Laki-laki";22;"FTIK";"Teknik Sipil";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Biaya murah, dekat dengan pasar";4,98;40000;2;0;5;2;0;2;0
+"226";227;"Laki-laki";21;"FTIK";"Rekayasa Tata Kelola Air Terpadu";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"bersama teman dan dekat kampus";4,98;24000;2;2;2;2;2;2;3
+"227";228;"Laki-laki";21;"FTIK";"Rekayasa Tata Kelola Air Terpadu";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"way huwi";"Rumah mengontrak bersama-sama";"murah karna bareng teman dan dekat kampus";5,06;15000;4;2;2;0;2;0;0
+"228";229;"Laki-laki";21;"FTIK";"Arsitektur Lanskap";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Sabah Balau";"Kos Sendiri";"Dekat kampus dan suasana tenang";6,59;20000;3;4;2;0;4;0;3
+"229";230;"Perempuan";21;"FTIK";"Arsitektur Lanskap";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Biaya kosan murah";6,67;30000;3;4;2;4;3;4;3
+"230";231;"Perempuan";22;"FTIK";"Arsitektur Lanskap";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Dadi";"Rumah mengontrak bersama-sama";"Diajak oleh teman karna kontrakan murah dan bagus";5,46;23000;0;2;2;2;0;2;0
+"231";232;"Perempuan";21;"FTIK";"Arsitektur Lanskap";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"Akses mudah untuk menuju kosan";7,37;27000;4;3;2;3;0;2;0
+"232";233;"Laki-laki";21;"FTI";"Teknik Elektro";"Tahun ke-3";"< 1 jt";2;0;0;"Sepeda Motor Pribadi";"Sukabumi";"Rumah pribadi/rumah keluarga";"dengan keluarga";6,19;26000;2;3;2;3;2;0;0
+"233";234;"Perempuan";21;"FTI";"Teknologi Pangan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukabumi";"Rumah mengontrak bersama-sama";"Lokasi aman karna perumahan";8,54;30000;2;2;4;4;0;2;0
+"234";235;"Laki-laki";22;"FTI";"Teknik Pertambangan";"Tahun ke-4";"2,1 jt – 3 jt";3;0;1;"Sepeda Motor Pribadi";"Kedamaian";"Rumah pribadi/rumah keluarga";"dengan keluarga";3,84;40000;3;3;2;2;5;2;0
+"235";236;"Laki-laki";22;"FTI";"Teknik Pertambangan";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat kampus";5,4;20000;4;4;4;4;5;2;2
+"236";237;"Laki-laki";21;"FTIK";"Arsitektur Lanskap";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Kos Sendiri";"Kamar luas dan aman";4,07;25000;3;4;0;4;3;0;0
+"237";238;"Laki-laki";22;"FTIK";"Arsitektur Lanskap";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos bersama-sama";"Biaya murah";4,14;30000;2;2;0;3;3;0;2
+"238";239;"Laki-laki";21;"FTIK";"Arsitektur Lanskap";"Tahun ke-4";"< 1 jt";1;0;1;"Sepeda Motor Pribadi";"Way Dadi";"Rumah mengontrak bersama-sama";"Lokasi dekat jalanan umum dan pasar";5,02;35000;0;2;2;2;3;4;2
+"239";240;"Laki-laki";23;"FTI";"Teknik Geologi";"Tahun ke-4";"1 jt – 2 jt";1;0;1;"Sepeda Motor Pribadi";"Way Kandis";"Kos Sendiri";"Tertarik dari pemasaran kosan di sosial media";9,73;25000;2;2;0;2;5;0;0
+"240";241;"Laki-laki";22;"FTI";"Teknik Material";"Tahun ke-4";"1 jt – 2 jt";2;1;2;"Sepeda Motor Pribadi";"Tanjung Senang";"Rumah pribadi/rumah keluarga";"Tinggal bersama keluarga";12,69;35000;0;2;2;2;2;2;2
+"241";242;"Perempuan";19;"FTIK";"Pariwisata";"Tahun ke-1";"2,1 jt – 3 jt";2;2;2;"Mobil Pribadi";"Susunan Baru";"Rumah pribadi/rumah keluarga";"Tinggal bersama keluarga dan lingkungan aman";10,63;150000;0;2;2;2;4;0;0
+"242";243;"Perempuan";18;"FTI";"Rekayasa Kosmetik";"Tahun ke-1";"1 jt – 2 jt";2;1;2;"Sepeda Motor Pribadi";"Segala Mider";"Rumah pribadi/rumah keluarga";"dengan keluarga";3,57;40000;0;4;4;2;4;0;0
+"243";244;"Perempuan";19;"FTI";"Rekayasa Kosmetik";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Kos Sendiri";"dekat kampus";3,66;0;2;2;2;2;4;0;3
+"244";245;"Perempuan";18;"FTI";"Rekayasa Kosmetik";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";3,7;15000;0;2;2;2;4;0;0
+"245";246;"Laki-laki";20;"FTI";"Rekayasa Instrumentasi dan Automasi";"Tahun ke-2";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus dan banyak tempat makan";3,7;25000;4;3;4;2;5;2;2
+"246";247;"Laki-laki";19;"FTI";"Rekayasa Keolahragaan";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"way huwi";"Kos Sendiri";"akses ke kampus lebih mudah";3,7;0;0;5;4;0;2;0;3
+"247";248;"Laki-laki";18;"FTI";"Rekayasa Minyak dan Gas";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"Dekat kampus dan biaya murah karna bareng teman";3,74;21000;4;3;2;4;3;2;0
+"248";249;"Laki-laki";19;"FTI";"Rekayasa Minyak dan Gas";"Tahun ke-1";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Wayhuwi";"Rumah mengontrak bersama-sama";"Bersama teman";4,79;30000;4;3;3;2;3;0;3
+"249";250;"Laki-laki";19;"FTI";"Rekayasa Minyak dan Gas";"Tahun ke-1";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Jalan menuju kampus mudah dan aman";2,11;23000;4;2;2;3;2;0;0
+"250";251;"Laki-laki";19;"FTI";"Rekayasa Minyak dan Gas";"Tahun ke-1";"< 1 jt";0;0;1;"Sepeda";"Way huwi";"Kos Sendiri";"Kosan bagus dan dekat kampus";5,93;0;2;2;2;2;2;3;0
+"251";252;"Laki-laki";23;"FTI";"Teknik Fisika";"Tahun ke-4";"1 jt – 2 jt";2;1;2;"Sepeda Motor Pribadi";"Sukarame";"Rumah pribadi/rumah keluarga";"Bersama keluarga";2,85;35000;0;2;2;2;6;0;0
+"252";253;"Laki-laki";22;"FTI";"Teknik Fisika";"Tahun ke-4";"2,1 jt – 3 jt";1;0;1;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Tertarik dengan fasilitas kosannya";9,07;25000;2;3;3;2;3;2;2
+"253";254;"Perempuan";22;"FTIK";"Teknik Sipil";"Tahun ke-4";"3,1 jt – 4 jt";3;2;2;"Mobil Pribadi";"Labuhan Ratu";"Rumah pribadi/rumah keluarga";"Dengan keluarga";6,18;2e+05;0;0;3;0;2;3;0
+"254";255;"Laki-laki";21;"FTI";"Rekayasa Kehutanan";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"way huwi";"Kos Sendiri";"dekat kampus dan warung makan";2,63;20000;2;4;4;4;2;0;3
+"255";256;"Laki-laki";22;"FTIK";"Teknik Sipil";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"dekat kampus";5,84;30000;3;3;3;3;5;3;0
+"256";257;"Perempuan";21;"FTIK";"Teknik Sipil";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Biaya murah";10,52;25000;2;0;0;2;2;3;5
+"257";258;"Laki-laki";22;"FTI";"Teknik Fisika";"Tahun ke-4";"1 jt – 2 jt";2;1;1;"Sepeda Motor Pribadi";"kedamaian";"Rumah pribadi/rumah keluarga";"dengan keluarga, lingkungan aman dan nyaman";9,73;40000;0;2;2;2;4;3;0
+"258";259;"Laki-laki";23;"FTIK";"Teknik Sipil";"Tahun ke-4";"2,1 jt – 3 jt";2;2;2;"Mobil Pribadi";"labuhan dalam";"Rumah pribadi/rumah keluarga";"lingkungan asri dan aman";7,51;180000;0;2;2;2;2;0;0
+"259";260;"Laki-laki";22;"FTIK";"Teknik Sipil";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Jatimulyo";"Rumah bersama saudara";"Karna saudara memiliki kamar yg kosong dan disarankan untuk tinggal dirumahnya selama kuliah karna jauh untuk pulang-pergi";3,77;25000;3;0;2;0;2;2;0
+"260";261;"Laki-laki";22;"FTIK";"Teknik Sipil";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat kampus";4,29;20000;2;2;2;2;2;3;2
+"261";262;"Laki-laki";21;"FTI";"Rekayasa Kehutanan";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus dan efisiensi waktu";4,75;24000;3;4;4;4;4;0;2
+"262";263;"Perempuan";21;"FTI";"Rekayasa Kehutanan";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Dekat kampus dan biaya murah";6,24;39000;2;2;2;2;2;2;2
+"263";264;"Laki-laki";22;"FTI";"Rekayasa Kehutanan";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way huwi";"Rumah mengontrak bersama-sama";"Ditawari oleh saudara";5,4;27000;2;4;4;4;4;0;0
+"264";265;"Perempuan";20;"FTIK";"Teknik Sipil";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus";3,77;20000;2;3;3;3;3;2;2
+"265";266;"Laki-laki";22;"FTI";"Rekayasa Kehutanan";"Tahun ke-3";"< 1 jt";0;0;1;"Sepeda";"Wayhuwi";"Kos Sendiri";"dekat dengan kampus";13,31;10000;2;4;4;4;3;2;2
+"266";267;"Perempuan";21;"FTIK";"Teknik Sipil";"Tahun ke-3";"> 4 jt";3;2;3;"Mobil Pribadi";"Bumi Raya";"Rumah pribadi/rumah keluarga";"Lingkungan nyaman dan aman bersama keluarga";4,87;2e+05;3;4;4;4;4;0;3
+"267";268;"Perempuan";21;"FTIK";"Teknik Sipil";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame";"Kos Sendiri";"Lokasi didalam perumahan";7,95;20000;3;4;4;4;2;2;0
+"268";269;"Laki-laki";22;"FTIK";"Teknik Sipil";"Tahun ke-3";"2,1 jt – 3 jt";0;1;0;"Mobil Pribadi";"Tanjung Senang";"Rumah bersama saudara";"bersama saudara karna ada garasi mobil";5,4;1e+05;2;3;2;2;4;0;0
+"269";270;"Perempuan";21;"FTI";"Teknik Sistem Energi";"Tahun ke-3";"< 1 jt";0;0;0;"Transportasi Online";"Way Huwi";"Rumah mengontrak bersama-sama";"Kontrakan murah karna bersama teman dan kamar banyak";4,96;60000;2;2;4;2;2;0;2
+"270";271;"Laki-laki";20;"FTI";"Teknik Sistem Energi";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"way huwi";"Kos Sendiri";"Dekat kampus";9,89;22000;3;4;4;4;2;3;0
+"271";272;"Laki-laki";21;"FTI";"Teknik Sistem Energi";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Karang Anyar";"Rumah bersama saudara";"Tidak mengeluarkan biaya";3,68;40000;2;2;4;4;0;0;0
+"272";273;"Laki-laki";21;"FTI";"Teknik Sistem Energi";"Tahun ke-3";"< 1 jt";0;0;0;"Berjalan Kaki";"Way huwi";"Rumah mengontrak bersama-sama";"kontrakan dekat dengan kampus";2,78;0;3;2;0;4;5;2;2
+"273";274;"Perempuan";21;"FTI";"Teknik Sistem Energi";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";3,96;15000;2;2;2;2;2;0;0
+"274";275;"Laki-laki";21;"FTIK";"Teknik Sipil";"Tahun ke-3";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Way Dadi";"Rumah bersama saudara";"Disarankan tinggal bersama saudara karna ada yang menjaga";1,78;70000;2;2;2;2;2;1;0
+"275";276;"Perempuan";22;"FTIK";"Teknik Sipil";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Aman dan ada ac nya";2,07;30000;2;4;4;4;3;2;3
+"276";277;"Perempuan";20;"FTI";"Teknik Sistem Energi";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Jalanan masih ramai dan tidak sepi";6,67;25000;2;4;0;4;2;3;0
+"277";278;"Perempuan";22;"FTIK";"Teknik Sipil";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"way dadi";"Rumah mengontrak bersama-sama";"harga kontrakan terjangkau dan terdapat ruang tamu";5,08;20000;2;0;3;0;2;2;0
+"278";279;"Perempuan";21;"FTI";"Rekayasa Kehutanan";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah bersama saudara";"dekat dengan kampus";2,08;30000;3;4;4;4;4;3;2
+"279";280;"Laki-laki";22;"FTIK";"Teknik Sipil";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"harapan jaya";"Kos Sendiri";"dekat dengan gerbang belakang ITERA";5,16;30000;2;3;0;0;4;2;0
+"280";281;"Laki-laki";21;"FTI";"Teknik Sistem Energi";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"harapan jaya";"Kos Sendiri";"lokasi strategis";8,19;26000;2;4;4;4;4;0;0
+"281";282;"Perempuan";20;"FTI";"Rekayasa Kosmetik";"Tahun ke-2";"< 1 jt";2;0;0;"Sepeda Motor Pribadi";"Sabah Balau";"Rumah pribadi/rumah keluarga";"Dengan keluarga";9,01;35000;1;1;1;1;1;1;1
+"282";283;"Perempuan";21;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Jatimulyo";"Rumah bersama saudara";"Dengan keluarga";3,7;20000;4;4;4;4;4;4;2
+"283";284;"Perempuan";20;"FTI";"Teknik Biosistem";"Tahun ke-3";"< 1 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos bersama-sama";"Lokasi dekat dengan Kampus";5,99;45000;4;0;4;2;0;0;0
+"284";285;"Laki-laki";20;"FTI";"Teknik Material";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Sabah Balau";"Rumah bersama saudara";"Dengan saudara";2,75;30000;4;2;2;0;0;0;0
+"285";286;"Perempuan";19;"FTI";"Teknik Material";"Tahun ke-2";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus";5,57;80000;3;2;4;4;2;0;2
+"286";287;"Perempuan";21;"FTIK";"Teknik Sipil";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Korpri Raya";"Rumah mengontrak bersama-sama";"Harga kontrakan murah karna bersama teman";5,29;15000;2;4;0;4;4;0;2
+"287";288;"Perempuan";20;"FTI";"Teknik Material";"Tahun ke-2";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame";"Rumah mengontrak bersama-sama";"Kontrakan bagus dan lokasi yang strategis";9,27;40000;2;2;4;4;3;2;2
+"288";289;"Laki-laki";21;"FTIK";"Teknik Sipil";"Tahun ke-3";"3,1 jt – 4 jt";3;3;4;"Mobil Pribadi";"Labuhan Ratu";"Rumah pribadi/rumah keluarga";"Dengan keluarga";5,08;2e+05;4;4;4;4;5;2;2
+"289";290;"Laki-laki";20;"FTI";"Teknik Material";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus";2,78;25000;4;2;2;0;3;2;4
+"290";291;"Perempuan";21;"FTI";"Teknik Biosistem";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat kampus";2,79;30000;4;2;4;4;0;5;0
+"291";292;"Perempuan";19;"FTIK";"Teknik Sipil";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah bersama saudara";"dengan saudara agar tidak mengeluarkan biaya kos";2,08;20000;2;2;2;0;2;0;0
+"292";293;"Laki-laki";20;"FTIK";"Teknik Sipil";"Tahun ke-2";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"dekat dengan kampus";2,08;24000;3;3;4;2;4;2;2
+"293";294;"Laki-laki";20;"FTIK";"Teknik Sipil";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"akses kampus mudah";5,14;20000;3;3;4;0;3;2;0
+"294";295;"Laki-laki";20;"FTI";"Teknik Material";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos bersama-sama";"Sewa kos bisa berdua";3,77;40000;3;3;5;4;5;0;4
+"295";296;"Perempuan";19;"FTI";"Teknik Material";"Tahun ke-2";"1 jt – 2 jt";0;0;1;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Jarak menuju kampus lumayan dekat";5,8;0;2;2;4;4;2;3;2
+"296";297;"Laki-laki";21;"FTIK";"Teknik Sipil";"Tahun ke-3";"2,1 jt – 3 jt";2;1;2;"Sepeda Motor Pribadi";"Way Halim Permai";"Rumah pribadi/rumah keluarga";"dengan keluarga";3,52;30000;2;2;2;2;4;0;0
+"297";298;"Perempuan";22;"FTI";"Teknik Biosistem";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Kontrakan strategis di pemda";2,78;15000;2;0;0;2;0;0;0
+"298";299;"Perempuan";22;"FTI";"Teknik Biosistem";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";5,8;20000;2;2;2;2;2;2;0
+"299";300;"Laki-laki";22;"FTI";"Teknik Elektro";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"Diajak oleh teman";6,86;30000;4;4;0;2;3;2;2
+"300";301;"Laki-laki";22;"FTI";"Teknik Mesin";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"perumnas way kandis";"Rumah mengontrak bersama-sama";"aman dan nyaman";6,62;30000;3;0;2;0;0;0;3
+"301";302;"Laki-laki";21;"FTI";"Teknik Biosistem";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"Lokasi kosan tidak sepi";4,85;20000;2;0;2;2;2;0;0
+"302";303;"Laki-laki";22;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";3;1;2;"Sepeda Motor Pribadi";"Sukarame";"Rumah pribadi/rumah keluarga";"Tinggal dengan keluarga";2,39;30000;4;2;2;4;4;2;2
+"303";304;"Laki-laki";21;"FTI";"Teknik Industri";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Dekat dengan gerbang belakang kampus";6,5;25000;3;2;4;0;2;0;0
+"304";305;"Laki-laki";21;"FTI";"Teknik Industri";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Rumah bersama saudara";"Tinggal bersama saudara";2,91;30000;3;2;2;0;2;0;2
+"305";306;"Perempuan";21;"FTI";"Teknik Biomedis";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";2,78;55000;0;2;2;2;2;2;2
+"306";307;"Laki-laki";19;"FTI";"Teknologi Industri Pertanian";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Kos Sendiri";"dengan saudara";3,77;0;4;4;4;4;3;0;0
+"307";308;"Perempuan";19;"FTI";"Teknologi Industri Pertanian";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Mudah untuk kekampus karna dekat";4,03;45000;2;4;2;2;2;2;0
+"308";309;"Perempuan";22;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Kos Sendiri";"Biaya kosan murah pertahun";5,4;15000;4;2;2;0;0;0;2
+"309";310;"Perempuan";21;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Rumah mengontrak bersama-sama";"Diajak oleh teman karna biaya kontrakan murah";3,57;70000;2;2;0;2;2;0;3
+"310";311;"Perempuan";18;"FTI";"Teknik Kimia";"Tahun ke-1";"< 1 jt";0;0;1;"Sepeda";"Way Huwi";"Kos Sendiri";"dekat dengan kampus dan tidak lama untuk menuju kampus";5,24;0;4;3;2;0;2;0;0
+"311";312;"Laki-laki";22;"FTI";"Teknik Pertambangan";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"Lingkungan nyaman";7,13;20000;2;3;3;0;2;0;2
+"312";313;"Laki-laki";22;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";3;1;2;"Sepeda Motor Pribadi";"Sukabumi";"Rumah pribadi/rumah keluarga";"dengan keluarga";5,84;35000;4;2;2;4;4;2;0
+"313";314;"Perempuan";19;"FTI";"Teknik Biomedis";"Tahun ke-2";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"way huwi";"Rumah mengontrak bersama-sama";"lingkungan nyaman";2,87;15000;2;2;2;2;2;2;0
+"314";315;"Perempuan";20;"FTI";"Teknik Biomedis";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Korpri";"Kos Sendiri";"Kosan aman dan direkomendasikan oleh teman";6,52;65000;4;4;4;4;0;2;2
+"315";316;"Laki-laki";23;"FTI";"Teknik Telekomunikasi";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Dadi";"Rumah mengontrak bersama-sama";"Kontrakan terdapat banyak kamar";4,88;0;0;0;0;2;5;0;0
+"316";317;"Perempuan";19;"FTI";"Teknik Biomedis";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame";"Kos bersama-sama";"Menghemat biaya karna bersama teman";4,88;30000;4;4;4;4;0;0;3
+"317";318;"Perempuan";20;"FTI";"Teknik Biomedis";"Tahun ke-2";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Sukarame";"Kos bersama-sama";"Murah karna biaya kosan dibagi dua dengan teman";8,19;15000;4;4;4;4;2;2;0
+"318";319;"Laki-laki";22;"FTI";"Teknik Telekomunikasi";"Tahun ke-4";"1 jt – 2 jt";2;1;1;"Mobil Pribadi";"Tanjung Baru";"Rumah pribadi/rumah keluarga";"lingkungan aman dan asri";2,96;150000;3;2;4;2;4;0;2
+"319";320;"Perempuan";21;"FTI";"Teknik Telekomunikasi";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Harapan Jaya";"Kos Sendiri";"dekat dengan kampus";0,72;0;2;2;2;2;3;0;2
+"320";321;"Perempuan";19;"FTI";"Teknik Geofisika";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"Biaya murah";2,78;0;2;2;0;2;4;0;0
+"321";322;"Perempuan";20;"FTI";"Teknologi Pangan";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos bersama-sama";"Kosan murah dan kamar cukup besar untuk berdua";0,72;60000;4;2;0;4;4;0;0
+"322";323;"Perempuan";18;"FTI";"Teknik Biomedis";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"Harga yang murah";8,62;0;2;0;4;2;2;2;0
+"323";324;"Perempuan";20;"FTI";"Teknologi Pangan";"Tahun ke-2";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Fajar Baru";"Rumah mengontrak bersama-sama";"Lingkungan sepi tidak ramai";6,73;0;2;2;0;2;0;0;2
+"324";325;"Perempuan";21;"FTI";"Teknik Telekomunikasi";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Dadi";"Kos Sendiri";"kosan dekat dengan jalanan umum";6,03;45000;2;4;2;2;2;0;0
+"325";326;"Laki-laki";21;"FTI";"Teknik Telekomunikasi";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Dadi";"Rumah mengontrak bersama-sama";"biaya sewa kontrakan murah dan lingkungan nyaman";3,77;20000;2;2;2;2;5;2;0
+"326";327;"Laki-laki";19;"FTI";"Teknik Elektro";"Tahun ke-1";"1 jt – 2 jt";0;0;1;"Sepeda";"Way Huwi";"Kos Sendiri";"Akses ke kampus mudah";0,72;0;4;2;2;2;4;0;2
+"327";328;"Perempuan";19;"FTI";"Teknik Kimia";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"Dekat dengan kampus";5,19;0;4;4;4;0;0;2;0
+"328";329;"Laki-laki";20;"FTI";"Teknologi Pangan";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Sukarame";"Rumah mengontrak bersama-sama";"Dicarikan oleh teman karna ingin mencari yang aman";8,62;40000;2;2;2;2;3;0;0
+"329";330;"Perempuan";20;"FTI";"Teknologi Pangan";"Tahun ke-3";"2,1 jt – 3 jt";3;2;2;"Mobil Pribadi";"Kedamaian";"Rumah pribadi/rumah keluarga";"Bersama keluarga";3,82;2e+05;2;2;0;2;2;2;2
+"330";331;"Perempuan";19;"FTI";"Teknik Biomedis";"Tahun ke-2";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"way huwi";"Kos Sendiri";"dekat dengan itera";3,68;70000;4;2;2;2;2;2;0
+"331";332;"Perempuan";20;"FTI";"Teknik Biomedis";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Kos bersama-sama";"dekat kampus";1,78;35000;4;4;4;4;0;0;0
+"332";333;"Laki-laki";20;"FTI";"Teknologi Pangan";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Harapan Jaya";"Kos Sendiri";"dekat dengan kampus";6,99;0;2;4;4;0;3;0;0
+"333";334;"Laki-laki";20;"FTI";"Teknologi Pangan";"Tahun ke-2";"2,1 jt – 3 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way huwi";"Rumah bersama saudara";"diperbolehkan oleh saudara";4,75;25000;2;2;2;2;2;0;2
+"334";335;"Perempuan";20;"FTI";"Teknik Telekomunikasi";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way huwi";"Kos bersama-sama";"kosan strategis dekat kampus";4,75;20000;3;2;3;0;2;2;0
+"335";336;"Perempuan";21;"FTI";"Teknik Telekomunikasi";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Kos bersama-sama";"biaya kosan murah karna dibagi berdua sama temen";8,76;30000;3;2;2;2;2;0;0
+"336";337;"Perempuan";21;"FTI";"Teknik Pertambangan";"Tahun ke-4";"2,1 jt – 3 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Tanjung Senang";"Rumah bersama saudara";"lingkungan nyaman";6,68;0;2;0;0;0;2;0;0
+"337";338;"Laki-laki";22;"FTI";"Teknik Pertambangan";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"way huwi";"Rumah mengontrak bersama-sama";"kontrakan bagus";1,78;0;0;0;3;0;3;0;0
+"338";339;"Laki-laki";18;"FTI";"Teknologi Pangan";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Harapan Jaya";"Kos Sendiri";"Murah dan Fasilitaa kos memadai";6,33;1e+05;0;4;4;2;5;0;2
+"339";340;"Laki-laki";21;"FTI";"Teknik Telekomunikasi";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Perumnas Way Kandis";"Rumah bersama saudara";"disarankan oleh saudara untuk tinggal selama kuliah";2,66;35000;2;4;2;2;4;0;0
+"340";341;"Perempuan";22;"FTI";"Teknik Pertambangan";"Tahun ke-4";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Korpri";"Kos Sendiri";"Tertarik dengan fasilitas";10,48;40000;2;2;2;0;2;3;3
+"341";342;"Perempuan";22;"FTI";"Teknik Pertambangan";"Tahun ke-4";"2,1 jt – 3 jt";3;2;3;"Mobil Pribadi";"Gunung Terang";"Rumah pribadi/rumah keluarga";"Tinggal bersama keluarga";3,09;225000;2;2;0;2;0;3;0
+"342";343;"Laki-laki";21;"FTI";"Teknik Informatika";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Dekat kampus";7,22;36000;4;2;3;0;4;0;2
+"343";344;"Laki-laki";20;"FTI";"Teknologi Industri Pertanian";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Sukabumi";"Rumah bersama saudara";"tinggal bersama saudara";4,85;30000;2;4;2;4;5;0;0
+"344";345;"Perempuan";20;"FTI";"Teknologi Industri Pertanian";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Kos Sendiri";"Kosan murah dengan fasilitas lengkap";2,78;0;2;2;2;2;2;2;0
+"345";346;"Laki-laki";18;"FTI";"Teknik Telekomunikasi";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Kos Sendiri";"Lingkungan nyaman";5,14;10000;2;2;2;0;5;2;0
+"346";347;"Perempuan";19;"FTI";"Teknologi Industri Pertanian";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos bersama-sama";"Kamar kos memiliki lebar yang luas ";5,24;70000;2;4;2;2;2;2;0
+"347";348;"Laki-laki";21;"FTI";"Teknik Pertambangan";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"Lokasi dekat dengan tempat makan dan masjid";3,03;20000;3;2;2;2;4;2;2
+"348";349;"Perempuan";20;"FTI";"Teknologi Industri Pertanian";"Tahun ke-2";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Way Dadi";"Kos bersama-sama";"Akses keluar masuk jalan mudah";2,05;90000;4;2;4;4;2;2;2
+"349";350;"Perempuan";19;"FTI";"Teknik Biomedis";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Harapan Jaya";"Kos Sendiri";"Murah dan dekat kampus";1,79;0;2;0;5;2;2;0;0
+"350";351;"Laki-laki";19;"FTI";"Teknik Industri";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"Biaya murah";2,89;0;2;2;2;0;5;0;0
+"351";352;"Laki-laki";18;"FTI";"Teknik Pertambangan";"Tahun ke-1";"1 jt – 2 jt";0;0;1;"Sepeda";"Way Huwi";"Kos Sendiri";"Lingkungan nyaman dan murah";0,72;0;4;4;2;4;2;2;0
+"352";353;"Perempuan";18;"FTI";"Teknik Geologi";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"Biaya murah ";7,12;0;4;5;2;2;4;0;0
+"353";354;"Laki-laki";21;"FTI";"Teknologi Industri Pertanian";"Tahun ke-2";"1 jt – 2 jt";2;1;2;"Sepeda Motor Pribadi";"Gunung Sulah";"Rumah pribadi/rumah keluarga";"dengan keluarga";7,04;40000;2;4;2;4;5;0;0
+"354";355;"Laki-laki";21;"FTI";"Teknik Pertambangan";"Tahun ke-3";"3,1 jt – 4 jt";2;2;2;"Mobil Pribadi";"Perumnas Way Kandis";"Rumah pribadi/rumah keluarga";"tinggal dengan keluarga";3,57;1e+05;3;3;2;0;3;0;4
+"355";356;"Perempuan";21;"FTI";"Teknik Pertambangan";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus";3,87;0;3;4;0;2;0;0;2
+"356";357;"Perempuan";18;"FTI";"Teknologi Industri Pertanian";"Tahun ke-2";"< 1 jt";0;0;0;"Transportasi Online";"way huwi";"Rumah mengontrak bersama-sama";"biaya murah";7,82;50000;2;2;2;2;2;2;2
+"357";358;"Perempuan";19;"FTI";"Teknologi Industri Pertanian";"Tahun ke-2";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Way Huwi";"Rumah bersama saudara";"Tidak mengeluarkan biaya karena saudara dekat";5,57;45000;2;0;2;2;2;0;0
+"358";359;"Laki-laki";20;"FTI";"Teknologi Industri Pertanian";"Tahun ke-2";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan jaya";"Kos Sendiri";"Tertarik karna harga terjangkau";5,29;42000;3;4;0;4;5;3;3
+"359";360;"Laki-laki";22;"FTI";"Teknik Pertambangan";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame";"Rumah mengontrak bersama-sama";"kontrakan dekat dengan perumahan dan ada keamanan ronda di malam hari";2,78;30000;4;4;0;2;4;0;0
+"360";361;"Laki-laki";21;"FTI";"Teknik Pertambangan";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"akses ke kampus mudah";3,57;35000;4;4;3;3;2;2;3
+"361";362;"Perempuan";21;"FTI";"Teknik Pertambangan";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way huwi";"Rumah mengontrak bersama-sama";"Dekat dengan kampus dan dekat dengan jualan makanan";1,78;40000;2;2;0;2;2;0;0
+"362";363;"Perempuan";21;"FTI";"Teknik Industri";"Tahun ke-4";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Korpri";"Kos Sendiri";"Kost dengan fasilitas lengkap";7,13;55000;2;3;0;0;2;0;2
+"363";364;"Laki-laki";22;"FTI";"Teknik Industri";"Tahun ke-4";"2,1 jt – 3 jt";3;1;2;"Sepeda Motor Pribadi";"sukarame";"Rumah pribadi/rumah keluarga";"dengan keluarga";2,12;25000;2;2;2;0;2;0;2
+"364";365;"Perempuan";21;"FTI";"Teknik Informatika";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Berjalan Kaki";"Harapan Jaya";"Kos Sendiri";"dekat dengan kampus";3,7;0;2;2;2;0;0;2;0
+"365";366;"Perempuan";21;"FTI";"Teknik Industri";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"way huwi";"Kos Sendiri";"akses ke kampus mudah";5,02;50000;2;2;0;2;2;2;0
+"366";367;"Perempuan";20;"FTI";"Teknik Industri";"Tahun ke-2";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Rumah mengontrak bersama-sama";"dekat dengan jalan raya";2,75;40000;4;3;4;4;2;2;3
+"367";368;"Perempuan";19;"FTI";"Teknik Industri";"Tahun ke-2";"1 jt – 2 jt";0;0;1;"Sepeda";"Way Huwi";"Kos Sendiri";"kosan dekat dengan kampus";5,4;0;3;4;0;2;2;0;0
+"368";369;"Laki-laki";21;"FTI";"Teknik Informatika";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan masjid dan lingkungan nyaman";5,68;30000;2;2;2;0;2;0;2
+"369";370;"Laki-laki";21;"FTI";"Teknik Informatika";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos bersama-sama";"Biaya murah karna bersama teman";5,68;50000;4;2;2;2;2;2;2
+"370";371;"Perempuan";21;"FTI";"Teknik Industri";"Tahun ke-3";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Harapan Jaya";"Kos Sendiri";"tertarik karna kosan yang bagus";3,77;45000;0;2;2;0;0;3;0
+"371";372;"Laki-laki";21;"FTI";"Teknik Informatika";"Tahun ke-3";"1 jt – 2 jt";1;0;1;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat dengan kampus dan ramai tempat makan";6,41;40000;3;4;0;2;4;3;0
+"372";373;"Perempuan";22;"FTI";"Teknik Informatika";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"Lokasi strategis karna dekat dengan pasar dan tempat makan";5,8;40000;0;4;3;3;0;5;0
+"373";374;"Perempuan";21;"FTI";"Teknik Industri";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Sabah Balau";"Rumah bersama saudara";"dekat kampus ";5,26;25000;3;3;3;2;0;0;2
+"374";375;"Perempuan";21;"FTI";"Teknik Informatika";"Tahun ke-4";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"kosan lebar dan dekat kampus";8,08;38000;2;2;0;2;2;0;0
+"375";376;"Perempuan";22;"FTI";"Teknik Informatika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Tanjung Senang";"Kos bersama-sama";"lingkungan aman dan nyaman";4,75;40000;3;4;2;0;3;2;3
+"376";377;"Perempuan";22;"FTI";"Teknik Informatika";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";6,95;10000;3;2;2;3;2;0;0
+"377";378;"Laki-laki";23;"FTI";"Teknik Informatika";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"karna fasilitas kosan yang lengkap";3,53;35000;3;4;2;2;5;3;2
+"378";379;"Laki-laki";22;"FTI";"Teknik Mesin";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"dekat kampus dan dekat warsin";1,78;32000;0;3;0;2;3;2;0
+"379";380;"Laki-laki";23;"FTI";"Teknik Mesin";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"kosan aman";2,85;25000;2;2;2;2;3;0;0
+"380";381;"Laki-laki";22;"FTI";"Teknik Mesin";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"mudah untuk kemana-mana";5,11;35000;0;2;0;0;0;2;3
+"381";382;"Laki-laki";21;"FTI";"Teknik Mesin";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"dekat kampus dan strategis untuk mahasiswa";3,7;20000;0;3;0;0;3;2;0
+"382";383;"Laki-laki";22;"FTI";"Teknik Mesin";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"Dekat kampus";5,61;20000;0;2;0;2;3;0;0
+"383";384;"Laki-laki";23;"FTI";"Teknik Mesin";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"Dekat kampus agar tidak telat";0,44;15000;4;3;0;0;4;2;0
+"384";385;"Laki-laki";19;"FTI";"Teknik Elektro";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"orang tua menyarankan untuk masuk ke asrama";0,44;0;2;0;2;2;4;2;0
+"385";386;"Laki-laki";19;"FTI";"Teknik Geofisika";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"way huwi";"Asrama";"keinginan orang tua";2,85;0;2;2;2;2;4;0;0
+"386";387;"Perempuan";21;"FTI";"Teknik Geologi";"Tahun ke-3";"2,1 jt – 3 jt";0;0;0;"Transportasi Online";"Korpri";"Kos Sendiri";"dekat dengan kampus";0,22;65000;2;2;2;2;4;0;0
+"387";388;"Perempuan";18;"FTI";"Teknik Elektro";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way huwi";"Asrama";"disarankan orang tua";5,24;0;2;0;2;2;2;0;0
+"388";389;"Perempuan";21;"FTI";"Teknik Geofisika";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"biaya murah dan nyaman";4,81;40000;2;2;0;2;2;0;2
+"389";390;"Laki-laki";21;"FTI";"Teknik Elektro";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"biaya kos murah";6,5;25000;3;4;3;2;3;2;2
+"390";391;"Laki-laki";21;"FTI";"Teknik Elektro";"Tahun ke-3";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Dadi";"Rumah mengontrak bersama-sama";"Akses jalan yang mudah untuk kemana-mana";2,66;0;2;4;2;3;3;0;0
+"391";392;"Perempuan";21;"FTI";"Teknik Elektro";"Tahun ke-3";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Dadi";"Kos Sendiri";"strategis karna dekat dengan tempat perbelanjaan";5,95;30000;2;4;2;2;0;2;2
+"392";393;"Perempuan";22;"FTI";"Teknik Geofisika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"kontrakan yang luas dan tidak membayar air";3,98;20000;0;0;2;2;0;0;0
+"393";394;"Laki-laki";21;"FTI";"Teknik Geologi";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Rumah mengontrak bersama-sama";"biaya kontrakan murah";3,77;40000;2;3;2;3;3;3;2
+"394";395;"Perempuan";21;"FTI";"Teknik Elektro";"Tahun ke-3";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat dengan kampus dan minimarket";5,61;58000;2;2;2;2;0;2;2
+"395";396;"Laki-laki";22;"FTI";"Teknik Geofisika";"Tahun ke-3";"< 1 jt";0;0;1;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"biaya sewa murah karna tinggal dengan teman";5,61;15000;4;3;2;0;4;2;2
+"396";397;"Laki-laki";21;"FTI";"Teknik Geofisika";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"way huwi";"Rumah mengontrak bersama-sama";"tinggal bersama teman";3,66;30000;4;3;2;0;5;0;0
+"397";398;"Perempuan";21;"FTI";"Teknik Elektro";"Tahun ke-3";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Way huwi";"Kos bersama-sama";"dekat dengan kampus dan banyak jual makanan";5,54;20000;3;4;2;3;3;0;2
+"398";399;"Perempuan";20;"FTI";"Teknik Elektro";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame";"Rumah bersama saudara";"disarankan oleh saudara dan orangtua karna biar ada yang menjaga";3,74;25000;2;4;2;3;0;0;2
+"399";400;"Perempuan";22;"FTI";"Teknik Geofisika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"lokasi dekat dengan tempat makan dan pasar";1,78;20000;0;2;2;0;0;0;2
+"400";401;"Laki-laki";22;"FTI";"Teknik Geologi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"lingkungan aman";3,48;20000;2;2;2;2;2;0;0
+"401";402;"Perempuan";21;"FTI";"Teknik Geologi";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Harapan Jaya";"Kos Sendiri";"kosan estetik";2,79;24000;0;2;2;0;0;2;0
+"402";403;"Laki-laki";19;"FTI";"Teknik Geofisika";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Kos bersama-sama";"murah karna dengan teman";2,89;0;2;2;2;2;5;0;0
+"403";404;"Perempuan";22;"FTI";"Teknik Elektro";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"dekat dengan kampus";3,77;25000;2;3;0;2;2;0;2
+"404";405;"Perempuan";21;"FTI";"Teknik Elektro";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";0,39;47000;2;2;2;2;2;2;2
+"405";406;"Laki-laki";19;"FTI";"Teknik Industri";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"keinginan orang tua ";2,12;0;2;2;2;2;5;0;0
+"406";407;"Laki-laki";19;"FTI";"Teknik Geologi";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Harapan Jaya";"Kos bersama-sama";"Dekat dengan gerbang belakang kampus";1,78;0;2;2;2;2;4;0;0
+"407";408;"Laki-laki";22;"FTI";"Teknik Geologi";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Harapan Jaya";"Kos Sendiri";"Fasilitas kos lengkap";5,14;0;2;0;2;0;2;0;0
+"408";409;"Perempuan";21;"FTI";"Teknik Geologi";"Tahun ke-4";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Fasilitas yang disediakan lengkap seperti tv";5,23;28000;0;2;0;0;2;2;0
+"409";410;"Laki-laki";22;"FTI";"Teknik Geologi";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Sukarame";"Rumah bersama saudara";"Disuruh orang tua dan saudara karna dekat dengan kampus";3,03;30000;2;0;0;4;2;0;2
+"410";411;"Perempuan";21;"FTI";"Teknik Geofisika";"Tahun ke-3";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos bersama-sama";"Biaya kos murah karna bersama teman";0,44;26000;4;2;2;2;0;2;2
+"411";412;"Laki-laki";19;"FTI";"Teknik Geologi";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"orang tua menyarankan tinggal di asrama karna lebih aman";1,78;0;4;2;2;2;4;2;2
+"412";413;"Laki-laki";22;"FTI";"Teknik Geofisika";"Tahun ke-4";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"Dekat dengan jalan raya";4,14;30000;0;0;2;0;3;2;0
+"413";414;"Perempuan";22;"FTI";"Teknik Geofisika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"dekat dengan fasilitas umum";3,7;25000;3;0;3;0;0;0;2
+"414";415;"Perempuan";22;"FTI";"Teknik Geofisika";"Tahun ke-4";"1 jt – 2 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";0,34;15000;3;2;2;0;0;0;3
+"415";416;"Perempuan";18;"FTI";"Teknik Kimia";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Asrama";"kemauan orang tua";2,75;0;2;2;2;0;0;2;0
+"416";417;"Laki-laki";19;"FTI";"Teknik Kimia";"Tahun ke-1";"1 jt – 2 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Kos Sendiri";"dekat dengan kampus dan ukuran kamar luas";2,08;0;4;3;2;0;3;2;2
+"417";418;"Laki-laki";22;"FTI";"Teknik Geofisika";"Tahun ke-4";"< 1 jt";1;0;0;"Sepeda Motor Pribadi";"Harapan Jaya";"Kos Sendiri";"dekat dengan kampus";3,57;30000;3;2;2;2;2;0;3
+"418";419;"Laki-laki";22;"FTI";"Teknik Geofisika";"Tahun ke-4";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"ukuran kontrakan luas";3,77;0;0;2;0;3;3;0;2
+"419";420;"Laki-laki";20;"FTI";"Teknik Kimia";"Tahun ke-2";"2,1 jt – 3 jt";1;0;0;"Sepeda Motor Pribadi";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";3,57;30000;3;2;3;3;4;2;0
+"420";421;"Perempuan";19;"FTI";"Teknik Kimia";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"Dekat ITERA";8,01;80000;2;2;2;2;2;0;0
+"421";422;"Laki-laki";23;"FTI";"Teknik Geofisika";"Tahun ke-4";"2,1 jt – 3 jt";2;1;2;"Mobil Pribadi";"Tanjung Senang";"Rumah pribadi/rumah keluarga";"tinggal dengan keluarga";3,16;150000;2;0;2;2;2;2;0
+"422";423;"Perempuan";20;"FTI";"Teknik Kimia";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Transportasi Online";"Harapan Jaya";"Kos Sendiri";"fasilitas kosan lengkap";2,78;65000;2;2;2;2;2;2;0
+"423";424;"Laki-laki";20;"FTI";"Teknik Kimia";"Tahun ke-1";"< 1 jt";0;0;0;"Berjalan Kaki";"Way Huwi";"Kos Sendiri";"dekat dengan kampus";5,09;0;2;2;2;2;2;0;3
+"424";425;"Laki-laki";19;"FTI";"Teknik Kimia";"Tahun ke-1";"1 jt – 2 jt";2;1;1;"Sepeda Motor Pribadi";"Sukarame";"Rumah pribadi/rumah keluarga";"tinggal bersama keluarga";3,58;50000;2;2;3;2;2;4;0
+"425";426;"Laki-laki";20;"FTI";"Teknik Kimia";"Tahun ke-1";"< 1 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"dekat kampus dan ukuran kontrakan luas";3,77;20000;3;2;3;2;3;0;3
+"426";427;"Perempuan";20;"FTI";"Teknik Kimia";"Tahun ke-2";"< 1 jt";0;0;0;"Transportasi Online";"Way Huwi";"Kos Sendiri";"dekat dengan kampus ";3,09;60000;2;2;2;0;2;0;0
+"427";428;"Perempuan";20;"FTI";"Teknik Kimia";"Tahun ke-2";"1 jt – 2 jt";0;0;0;"Kendaraan Bermotor (menumpang dengan keluarga/teman)";"Way Huwi";"Rumah mengontrak bersama-sama";"dekat dengan kampus";6,95;0;2;2;0;2;2;2;0
